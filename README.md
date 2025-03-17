@@ -39,7 +39,7 @@ This project focuses on detecting deepfake images using forensic analysis techni
 
 ## **Project Demo**
 ### **Video Demonstration**
-[![Watch the video](images/video_thumbnail.png)](https://youtu.be/KNWsmpkRm-8)
+[![Watch the video](images/deepfake.jpg)](https://youtu.be/KNWsmpkRm-8)
 
 ## **Screenshots**
 | Feature | Screenshot |
