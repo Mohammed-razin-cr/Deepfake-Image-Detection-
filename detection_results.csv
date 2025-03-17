@@ -1,0 +1,5 @@
+Image Name,Score,Classification
+fake.png,8,Deepfake
+real.png,2,Real
+R-Fake.png,8,Deepfake
+R-real.png,1,Real
