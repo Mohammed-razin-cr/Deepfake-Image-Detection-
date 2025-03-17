@@ -1,4 +1,4 @@
-# **Deepfake Detection**
+# **Deepfake Detection and Digital Forensics**
 
 ![Deepfake Detection](Deepfake.jpg)
 
@@ -20,8 +20,8 @@ This project focuses on detecting deepfake images using forensic analysis techni
 ## **Installation & Usage**
 ### **1. Clone the Repository**
 ```bash
- git clone https://github.com/yourusername/deepfake-detection.git
- cd deepfake-detection
+ git clone https://github.com/Mohammed-razin-cr/Deepfake-Image-Detection-.git
+ cd Deepfake-Image-Detection-
 ```
 
 ### **2. Run the Project**
@@ -42,14 +42,15 @@ This project focuses on detecting deepfake images using forensic analysis techni
   <img src="gen-deepfakes.jpg" alt="Watch the video" width="600">
 </a>
 
-
+## **Project Repository**
+🔗 **GitHub Repository:** [Deepfake Image Detection](https://github.com/Mohammed-razin-cr/Deepfake-Image-Detection-)
 
 ## **Contributors**
-- **[Your Name](https://www.linkedin.com/in/yourprofile)**
+- **[Mohammed Razin CR](https://www.linkedin.com/in/mohammed-razin-cr-100b432a3/)**
 
 ## **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-**Stay connected:** Follow my updates on [LinkedIn](https://www.linkedin.com/in/yourprofile). 🚀
+**Stay connected:** Follow my updates on [LinkedIn](https://www.linkedin.com/in/mohammed-razin-cr-100b432a3/). 🚀
 
