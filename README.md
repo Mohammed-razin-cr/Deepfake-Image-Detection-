@@ -1,6 +1,6 @@
 # **Deepfake Detection**
 
-![Deepfake Detection](images/banner.png)
+![Deepfake Detection](Deepfake.jpg)
 
 ## **Overview**
 This project focuses on detecting deepfake images using forensic analysis techniques without relying on machine learning models. It examines image attributes, metadata, and structural inconsistencies to classify images as authentic or manipulated.
