@@ -36,8 +36,11 @@ This project focuses on detecting deepfake images using forensic analysis techni
 ```bash
  python generate_chart.py
 ```
-[![Watch the video](gen-deepfakes.jpg)](https://youtu.be/KNWsmpkRm-8)
 
+### **Video Demonstration**
+<a href="https://youtu.be/KNWsmpkRm-8">
+  <img src="gen-deepfakes.jpg" alt="Watch the video" width="600">
+</a>
 
 
 ## **Screenshots**
