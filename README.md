@@ -43,12 +43,6 @@ This project focuses on detecting deepfake images using forensic analysis techni
 </a>
 
 
-## **Screenshots**
-| Feature | Screenshot |
-|---------|------------|
-| Image Upload | ![Upload](images/upload.png) |
-| Detection Results | ![Results](images/results.png) |
-| CSV Logging | ![CSV](images/csv_log.png) |
 
 ## **Contributors**
 - **[Your Name](https://www.linkedin.com/in/yourprofile)**
